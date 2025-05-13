@@ -116,7 +116,7 @@ podatkovne krajine nasploh.
 ## Ročni pregled portala OPSI
 
 Nacionalni portal odprtih podatkov Slovenije (OPSI), ki ga lahko najdemo
-na [Slika 1](#img1), predstavlja enotno nacionalno spletno točko za objavo
+na [Sliki 1](#img1), predstavlja enotno nacionalno spletno točko za objavo
 odprtih podatkov za celotni javni sektor. Portal je vzpostavilo
 Ministrstvo za javno upravo, tako kot angleški portal odprtih podatkov
 (Data GOV UK)[<sup>1</sup>](#c1) ter evropski portal odprtih podatkov (Data Europa
@@ -174,9 +174,7 @@ urednikov —, pri čemer podatke oziroma zbirke ali nove izdelke, ki
 nastajajo v procesu ponovne uporabe, lahko objavijo tudi zunanji
 deležniki oziroma uporabniki zbirk podatkov.
 
-<a name="img1"></a>![Ein Bild, das Text, Webseite, Website, Software enthält. KI-generierte
-Inhalte können fehlerhaft
-sein.](media/image1.png) \
+<a name="img1"></a>![](media/image1.png) \
 *Slika 1: Spletni portal OPSI.* \
 *Vir: lasten.*
 
@@ -187,7 +185,7 @@ prikazane na slikah, denimo izhajajo s podatkovnega področja
 Izobraževanja, kulture in športa. Ob koncu pregleda je bilo na portalu
 objavljenih okoli 3.640 zbirk, danes, 4. 3. 2025, pa jih je 5.338.
 
-Na [Slika 2](#img2) lahko vidimo navedena imena podatkovnih zbirk, ki smo jih
+Na [Sliki 2](#img2) lahko vidimo navedena imena podatkovnih zbirk, ki smo jih
 ročno pregledali, z dodano hiperpovezavo do spletne strani, kjer se
 nahaja, in datumom ročnega pregleda, ko so bile le-te pregledane. V
 samem Excel dokumentu, znotraj katerega je potekal vpis podatkov ročnega
@@ -198,7 +196,7 @@ ustrezajo njihovem področju.
 *Slika 2: Ime, spletna povezava in datum dostopa do podatkovnih zbirk.* \
 *Vir: lasten.*
 
-Na [Slika 3](#img3) lahko najprej vidimo navedene formate podatkovnih zbirk, ki
+Na [Sliki 3](#img3) lahko najprej vidimo navedene formate podatkovnih zbirk, ki
 smo jih ročno pregledali, in popolnost podatkovnih zbirk, pri čemer smo
 za merilo vzeli subjektivno oceno stanja podatkovne zbirke: če smo
 označili, da je popolnost podatkovne zbirke navedena z odgovorom 1) DA,
@@ -223,12 +221,11 @@ da podatkovna zbirka ne vsebuje podatkov oziroma so prisotne zgolj
 kategorizacije oziroma identifikatorji podatkov, ki sami na sebi ne
 povedo ničesar, in zato podatkovna zbirka velja kot nezanesljiva.
 
-<a name="img3"></a>![Ein Bild, das Schwarz, Dunkelheit enthält. KI-generierte Inhalte
-können fehlerhaft sein.](media/image3.png) \
+<a name="img3"></a>![](media/image3.png) \
 *Slika 3: Format, popolnost, pravilnost kategorizacije in zanesljivost podatkov v podatkovnih zbirkah.* \
 *Vir: lasten.*
 
-Na [Slika 4](#img4) lahko najdemo kategorije uparljivosti ali spremenljivosti ali
+Na [Sliki 4](#img4) lahko najdemo kategorije uparljivosti ali spremenljivosti ali
 povezljivosti podatkov, pri kateri smo ocenjevali, v kolikor imajo
 podatki znotraj danega stolpca podatke, ki so bodisi v obliki 1)
 šifranta (npr. šifrant občine Domžale je 1230), 2) besedila (npr.
@@ -254,8 +251,7 @@ njihovih podatkov, ti vključujejo 1) navedbo avtorjev, 2) zaznane
 formate, 3) pojavljanje posebnih znakov v tabelah in 4) druge
 posebnosti.
 
-<a name="img4"></a>![Ein Bild, das Schwarz, Dunkelheit enthält. KI-generierte Inhalte
-können fehlerhaft sein.](media/image4.png) \
+<a name="img4"></a>![](media/image4.png) \
 *Slika 4: Uparljivost ali spremenljivost ali povezljivost, potreba po
 naknadnem urejanju oziroma popravljanju, podatki o obstoju in opombe za
 podatkovne zbirke.* \
@@ -279,7 +275,7 @@ utemeljene na podlagi specifičnih primerov.
 #### Nestandardiziranost
 
 Prvotni problem, s katerim smo se srečali pri ročnem pregledu, razvidnem
-s Slika 2, je raznolikost formatov, v katerih se podatkovne zbirke
+s Slike 2, je raznolikost formatov, v katerih se podatkovne zbirke
 pojavljajo. V idealni situaciji si želimo enoten standardiziran format,
 ki bi nam omogočal enostavno obdelavo podatkov, srečujemo pa se z
 nekaterimi standardnimi formati: PCAXIS, CSV, XLS, HTML, ZIP, XML, KML,
@@ -297,12 +293,12 @@ drugih operacijskih platformah, kot so macOS, Linux itn., kar ne
 predstavlja idealnih pogojev za pregledovanje podatkovnih zbirk na
 napravah, ki nimajo nameščenega operacijskega sistema Windows.
 
-Na [Slika 5](#img5) vidimo primer zbirke, ki obstaja zgolj v formatu PCAXIS. V
+Na [Sliki 5](#img5) vidimo primer zbirke, ki obstaja zgolj v formatu PCAXIS. V
 primeru, da naša naprava nima nameščenega operacijskega sistema Windows,
 pa moramo pri dodatnih povezavah pritisniti na gumb »Povezava«, nakar
 izberemo podatke različnih kategorij za prikaz.
 
-<a name="img5"></a>![Ein Bild, das Text, Schrift, Screenshot enthält. KI-generierte Inhalte können fehlerhaft sein.](media/image5.png)" \
+<a name="img5"></a>![](media/image5.png)" \
 *Slika 5: PCAXIS format podatkovne zbirke in dostop do nje.* \
 *Vir: lasten.*
 
@@ -410,7 +406,7 @@ Aktualna je tudi problematika, nanašajoča se na Petzvezdični sistem za
 ocenjevanje, ki je poglaviten pri povezovanju odprtih podatkov, pri
 čemer vrednoti formate ter dostopnost podatkov. Sistem vrednoti
 izključno odprtost podatkovnih zbirk, posledično pa vsaka podatkovna
-zbirka, kot je razvidno s [Slika 6](#img6), samodejno prejme zgolj tri izmed pet
+zbirka, kot je razvidno s [Slike 6](#img6), samodejno prejme zgolj tri izmed pet
 zvezdic (z izjemo ene petzvezdične podatkovne zbirke), saj izpolnjuje
 zgolj prve tri pogoje, kar močno omeji ponovno uporabljivost za bodoče
 uporabnike. Da bi zvišali samodejno oceno vseh podatkovnih zbirk, moramo
@@ -426,7 +422,7 @@ izpolnjevale vseh pet pogojev, to so:
 1.  podatki so za namen kontekstualizacije povezani z ostalimi
     dostopnimi podatki.
 
-<a name="img6"></a>![Ein Bild, das Text, Screenshot, Schrift enthält. KI-generierte Inhalte können fehlerhaft sein.](media/image6.png) \
+<a name="img6"></a>![](media/image6.png) \
 *Slika 6: Ocena odprtosti vseh zbirk, 17. 3. 2025.* \
 *Vir: lasten.*
 
@@ -435,7 +431,7 @@ izpolnjevale vseh pet pogojev, to so:
 Predlagana metodologija je osnovana na podlagi pregleda literature, ki
 je predstavljen v prejšnjem/naslednjem poglavju, in ročnega
 pregleda portala OPSI, ki je potekal od oktobra 2023 do februarja 2024
-in katerega primer lahko najdemo na [Slika 2](#img2).
+in katerega primer lahko najdemo na [Sliki 2](#img2).
 
 Proces izdelave nove metodologije za kvalitativno ocenjevanje odprtih
 podatkov je potekal v več fazah:
@@ -476,7 +472,7 @@ dimenzije.
 #### Popolnost
 
 Dimenzija, ki določa, do katere stopnje podatki vsebujejo vrednosti za
-vse pričakovane značilnosti, in je razvidna iz [Tabela 1](#tab1):
+vse pričakovane značilnosti, in je razvidna iz [Tabele 1](#tab1):
 
 - **Odstotek popolnih celic:** metrika je izračunana na podlagi števila
   vrstic, števila stolpcev, števila nepopolnih celic in števila vseh
@@ -515,7 +511,7 @@ vse pričakovane značilnosti, in je razvidna iz [Tabela 1](#tab1):
 #### Unikatnost
 
 Dimenzija, ki določa, do katere stopnje so podatki edinstveni, in je
-razvidna iz [Tabela 2](#tab2):
+razvidna iz [Tabele 2](#tab2):
 
 - **Odstotek nepodvojenih vrstic:** metrika je izračunana na podlagi
   števila podvojenih vrstic in števila vrstic.
@@ -543,7 +539,7 @@ razvidna iz [Tabela 2](#tab2):
 #### Doslednost
 
 Dimenzija, ki določa, do katere stopnje se podatki pojavljajo v enaki
-obliki, in je razvidna iz [Tabela 3](#tab3):
+obliki, in je razvidna iz [Tabele 3](#tab3):
 
 - **Odstotek pravilno poimenovanih stolpcev:** metrika predstavlja
   stolpce, ki so poimenovani brez slovničnih napak in s šifrantom
@@ -571,7 +567,7 @@ obliki, in je razvidna iz [Tabela 3](#tab3):
 #### Uparljivost
 
 Dimenzija, ki določa, do katere stopnje se podatki med seboj povezujejo,
-in je razvidna iz [Tabela 4](#tab4):
+in je razvidna iz [Tabele 4](#tab4):
 
 - **Odstotek navedenih podatkovnih tipov:** metrika v procentih označuje
   prisotnost navedenih podatkovnih tipov v podatkovnih zbirkah. Število
@@ -604,7 +600,7 @@ in je razvidna iz [Tabela 4](#tab4):
 #### Ponovna uporabljivost
 
 Dimenzija, ki določa, do katere stopnje so podatki bodočim uporabnikom
-na voljo za ponovno uporabo, in je razvidna iz [Tabela 5](#tab5). Navedene
+na voljo za ponovno uporabo, in je razvidna iz [Tabele 5](#tab5). Navedene
 metrike so zasnovane za uporabo na nivoju portala in ne za posamezne
 podatkovne zbirke:
 
@@ -636,7 +632,7 @@ podatkovne zbirke:
 #### Natančnost
 
 Dimenzija, ki določa, do katere stopnje se podatki zanesljivo pojavljajo
-v pravilni obliki in ne dopuščajo napak, in je razvidna iz [Tabela 6](#tab6):
+v pravilni obliki in ne dopuščajo napak, in je razvidna iz [Tabele 6](#tab6):
 
 - **Odstotek sintaktično natančnih celic:** metrika je izračunana na
   podlagi števila celic z napakami pri kodiranju (pretvorba šumnikov in
@@ -653,7 +649,7 @@ v pravilni obliki in ne dopuščajo napak, in je razvidna iz [Tabela 6](#tab6):
 #### Razumljivost
 
 Dimenzija, ki določa, do katere stopnje so podatki razumljivi in
-enostavni za uporabo, in je razvidna iz [Tabela 7](#tab7):
+enostavni za uporabo, in je razvidna iz [Tabele 7](#tab7):
 
 - **Jasnost poimenovanja:** metrika ocenjuje, do katere subjektivne
   stopnje je v podatkovnih zbirkah prisotna jasnost poimenovanja.
@@ -684,7 +680,7 @@ enostavni za uporabo, in je razvidna iz [Tabela 7](#tab7):
 #### Aktualnost
 
 Dimenzija, ki določa, do katere stopnje so podatki objavljeni
-pravočasno, in je razvidna iz [Tabela 8](#tab8):
+pravočasno, in je razvidna iz [Tabele 8](#tab8):
 
 - **Zamuda v objavi:** metrika opisuje, od kdaj do kdaj so bili določeni
   podatki dostopni, in je izračunana na podlagi datuma dostopnosti
@@ -702,7 +698,7 @@ pravočasno, in je razvidna iz [Tabela 8](#tab8):
 #### Skladnost
 
 Dimenzija, ki določa, do katere stopnje so podatki skladni z določenimi
-standardi, in je razvidna iz [Tabela 9](#tab9):
+standardi, in je razvidna iz [Tabele 9](#tab9):
 
 - **Skladnost z eGMS:** metrika opisuje, do katere mere so podatkovne
   zbirke skladne z e-GMS, in je izračunana na podlagi vira, datuma
@@ -730,7 +726,7 @@ standardi, in je razvidna iz [Tabela 9](#tab9):
 #### Sledljivost
 
 Dimenzija, ki določa, do katere stopnje je mogoče spremljati sledi
-podatkovnih zbirk, in je razvidna iz [Tabela 10](#tab10):
+podatkovnih zbirk, in je razvidna iz [Tabele 10](#tab10):
 
 - **Sled izdelave:** metrika spremlja število sledi o izdelavi
   podatkovne zbirke in je izračunana na podlagi vira in datuma izdelave.
